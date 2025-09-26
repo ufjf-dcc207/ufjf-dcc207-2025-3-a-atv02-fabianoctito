@@ -1,0 +1,15 @@
+.disciplina {
+    padding-left: 1em;
+    padding-right: 1em;
+    border: 1px solid salmon;
+    border-radius: 100px;
+    width: 50%;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.disciplina:hover {
+    background-color: rgba(88, 61, 61, 0.281);
+    border-radius: 60px;
+}
