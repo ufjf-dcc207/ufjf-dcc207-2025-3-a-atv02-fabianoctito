@@ -3,9 +3,10 @@ import Disciplina from './Disciplina';
 
 function App() {
   return (
-    <>
-    <Disciplina></Disciplina>
-    </>
+    <div id='container'>
+    <Disciplina codigo='DCC200' nome='DWeb'></Disciplina>
+
+    </div>
   );
 }
 

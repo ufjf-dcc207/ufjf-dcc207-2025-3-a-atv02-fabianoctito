@@ -3,13 +3,18 @@
     padding-right: 1em;
     border: 1px solid salmon;
     border-radius: 100px;
-    width: 50%;
     text-align: center;
     color: aliceblue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-self: center;
+    width: 40vh;
+}
+
+img {
+    cursor: grab;
 }
 
 .disciplina:hover {
     background-color: rgba(88, 61, 61, 0.281);
-    border-radius: 60px;
+    border-radius: 50px;
 }
